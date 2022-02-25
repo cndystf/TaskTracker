@@ -1,2 +1,2 @@
 # TrackTracker
-I made this repository for practice. Didnt own the code
+For practice. Didn't own the code
